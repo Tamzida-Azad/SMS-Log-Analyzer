@@ -1,0 +1,31 @@
+Total messages: 4615
+Delivered: 4583 (99.3% if total>0 else 0)
+Potential risk (score>=2): 4422
+High risk (score>=4): 3103
+
+Top error codes:
+ 30006: 13
+ 30007: 6
+ 21211: 5
+ 30005: 5
+ 30019: 1
+
+Top domains:
+ spa.guru: 2119
+ bit.ly: 653
+ calystaproemr.com: 560
+ graceandglowmd.repeatmd.app: 459
+ us02web.zoom.us: 8
+ cal**********.com.: 4
+ aspirerewards.com: 3
+ graceandglowmd.repeatmd.app.: 2
+ lowergwynedd.org: 1
+ g.page: 1
+ growthpartner.nutrafol.com: 1
+ familyfocusmedia.formstack.com: 1
+ rpt.md: 1
+
+Top senders:
+ +15515537432: 4615
+Opt-out containing messages: 1
+Messages with short/untrusted link flag: 2774

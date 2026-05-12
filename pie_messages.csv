@@ -1,0 +1,104 @@
+Sid,To,From,Status,ErrorCode,Category,PrimaryReason,Score,Domains,Body
+SM16ec93b27c7b8d9f16b4704ca9d67a96,+1(111)111-1112,+15515537432,failed,21211,High,suspicious_link_or_shortener,6,spa.guru,"Hi, you have a new appointment with Dr. Melissa Lee Agawa on 04/27/2026 at 02:00 PM.
+Facility : Grace and Glow MD, Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002. Click on this link 
+https://spa.guru/kIw9cls to confirm your appointment, or call to reschedule: +1(215)618-4868"
+SMebe6917acfd751d5e4fa665a1b1ad31b,+16104204222,+15515537432,undelivered,30007,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/Xz0wXdM"
+SMea68066da507562bbea94c480314a09b,+12679870571,+15515537432,undelivered,30007,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/ufFopu4"
+SM9b3241e0b8d2d8e686c433b3c7dd48eb,+12673918021,+15515537432,undelivered,30007,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/qu9ufHu"
+SM6ca0eafc98d1a1d2a2a1fafcb2d9f5e5,+12156011575,+15515537432,undelivered,30007,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/X_bymbj"
+SM6b022ee4f3e24aded672377b83fe55e6,+12677845570,+15515537432,undelivered,30007,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/Qw7ny84"
+SMddbb8e35104d40c23e57c1de0aa5a550,+12153704652,+15515537432,undelivered,30007,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/4xFmgjd"
+SM7b68a2ae78406d0a6d1a975e10e620b3,+14438137914,+15515537432,undelivered,30005,High,spammy_content,7,us02web.zoom.us,"Hello, hope you're having a glowing day!
+
+Hello Chantell, this is Sarah from Dr. Lee’s office at Grace and Glow MD. Please complete and sign all consent and patient history forms prior to your appointment today. 
+ 
+Here is the Zoom link for your virtual consultation: https://us02web.zoom.us/j/89105057597?pwd=CYDG3zZvRyyFLgNzeLzyXQVf0g6O6V.1 
+ 
+Thank you!
+
+In the case of an emergency, for faster response, type URGENT into the message."
+SM3dcc952459a0a88b678c7ccb1ef44b2f,+14438137914,+15515537432,undelivered,30005,High,suspicious_link_or_shortener,4,spa.guru,"Patient Intake Form (New) encounter link has been sent to you from Grace and Glow MD. Please visit below link and fill out your information. 
+https://spa.guru/8NYi8vY"
+SMebbfc8bbb8041c5948448447ea2d7d6e,+14438137914,+15515537432,undelivered,30005,Other,contains_link,4,calystaproemr.com;calystaproemr.com,"Hi, you have a new appointment with Dr. Melissa Lee Agawa on 04/15/2026 at 10:30 AM.
+Facility : Grace and Glow MD, Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002. Click on this link 
+https://www.calystaproemr.com/appointments/confirmation/CdGbfGh to confirm your appointment, or call to reschedule: +1(215)618-4868 meeting link: https://www.calystaproemr.com/z/YTlkNDEzZWE meeting ID :89105057597 password : qtmVLFWpAu"
+SM61cb5299aceb22f338bf741462ad6f66,+14438137914,+15515537432,undelivered,30005,High,suspicious_link_or_shortener,4,spa.guru,"HIPPA Privacy Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/8XNlKxI"
+SM8dfe9d2a7f68fbce700d51d8e93d55c2,+12158842008,+15515537432,undelivered,30006,Potential,potential_risk,3,graceandglowmd.repeatmd.app,"Hope you're having a fabulous day!
+
+You have an appointment with Shannon Connors on 04/08/2026 at 03:00 PM Facility : Grace and Glow MD Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002
+Get $50 towards your next visit when you sign up for our app: https://graceandglowmd.repeatmd.app/"
+SMd40460f016f6dc1078943a87718f7c0e,+12158842008,+15515537432,undelivered,30006,High,spammy_content,4,,"Hello, hope you're having a glowing day!
+
+Hi Donna, this is Sarah from Grace and Glow MD! Just a quick reminder to submit your deposit to secure your appointment. Without the deposit, we’ll need to release the time slot. Your deposit will be applied treatments. Thank you so much for understanding — we can’t wait to see you soon!
+
+In the case of an emergency, for faster response, type URGENT into the message."
+SM04944d332feb015e0509d9e6f3912ddf,+12158842008,+15515537432,undelivered,30006,Potential,potential_risk,3,graceandglowmd.repeatmd.app,"Hope you're having a fabulous day!
+
+You have an appointment with Shannon Connors on 04/08/2026 at 03:00 PM Facility : Grace and Glow MD Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002
+Get $50 towards your next visit when you sign up for our app: https://graceandglowmd.repeatmd.app/"
+SMdb7645965b8132a7d4a3291e91df5767,+12158842008,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,4,spa.guru,"An invoice payment request has been sent to you from Grace and Glow MD.
+Please use below link to pay.
+https://spa.guru/3Qek-dI"
+SM5eb49ecc78f154253a852f55bff04d59,+12158842008,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,4,spa.guru,"Patient History/Good Faith Exam (New) encounter link has been sent to you from Grace and Glow MD. Please visit below link and fill out your information. 
+https://spa.guru/hJgfR1m"
+SMf50a13d6fc035635818a976f8c46e56a,+12158842008,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Hydrafacial Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/HWoBKKF"
+SM75f4962219d7fbc65eec6910efd55a22,+12158842008,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,7,spa.guru,"Hi, your appointment with Shannon Connors on 04/08/2026 at 03:00 PM has been approved!
+Facility : Grace and Glow MD, Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002,, Note : A $50 non-refundable deposit is required to secure your appointment and will be applied to your service total. An online secure link will be provided to collect your deposit. No deposit is needed if you pre-purchased through our app.. Click on this link https://spa.guru/nH0ee4K to confirm your appointment, or call to reschedule: +1(215)618-4868"
+SM5fdbd560468f2a452d0456d33709b080,+17176674973,+15515537432,undelivered,30006,High,spammy_content,4,,"Hello, hope you're having a glowing day!
+
+Hi Carmel, this is Sarah from Grace and Glow MD! Just a quick reminder to submit your deposit to secure your appointment. Without the deposit, we’ll need to release the time slot. Your deposit will be applied toward your treatment. Thank you so much for understanding — we can’t wait to see you soon!
+
+In the case of an emergency, for faster response, type URGENT into the message."
+SM80b948ae8542e5c34592a25ea21f2e81,+17176674973,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,4,spa.guru,"An invoice payment request has been sent to you from Grace and Glow MD.
+Please use below link to pay.
+https://spa.guru/29nnf4H"
+SM2d319e5a9242492428c92264fb632da1,+17176674973,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,4,spa.guru,"Patient Intake Form (New) encounter link has been sent to you from Grace and Glow MD. Please visit below link and fill out your information. 
+https://spa.guru/VL2s_sC"
+SM9f704050a667907d2b9e2bbed7a78a59,+17176674973,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,5,spa.guru,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Botox/Filler, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://spa.guru/6gYWDa2"
+SM71cca565bedb2daa90b428f409f14810,+17176674973,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,7,spa.guru,"Hi, your appointment with Dr. Melissa Lee Agawa on 04/10/2026 at 02:00 PM has been approved!
+Facility : Grace and Glow MD, Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002,, Note : A $50 non-refundable deposit is required to secure your appointment and will be applied to your service total. An online secure link will be provided to collect your deposit. No deposit is needed if you pre-purchased through our app.. Click on this link https://spa.guru/71Ddw12 to confirm your appointment, or call to reschedule: +1(215)618-4868"
+SM8893c030e447c312417ff8ebcd5db4fc,+16104572047,+15515537432,undelivered,30019,High,spammy_content,4,,"Hello, hope you're having a glowing day!
+
+Hi Serena, this is Sarah from Dr. Lee-Agawa's office at Grace and Glow MD. I wanted to apologize for the confusion with your reward. We learned it was accidentally removed due to a technical issue with the app’s recent update, but it has now been fully restored. 
+ 
+We met with the app representatives to ensure issues like this do not happen again. To make up for the inconvenience, we’ve added the complimentary Express Hydrafacial back into your reward wallet, along with $50 in repeat cash (the equivalent value if you convert that reward to repeat cash). 
+ 
+Thank you for your patience, and please don’t hesitate to call or text if you have any questions.
+
+In the case of an emergency, for faster response, type URGENT into the message."
+SM5fe35cf6e584b6c9a48b0340c8bc54cf,+12672511268,+15515537432,undelivered,30005,High,suspicious_link_or_shortener,5,bit.ly,"Hope you're having a fabulous day!
+
+You have an appointment with Dr. Melissa Lee Agawa on 02/28/2026 at 10:30 AM Facility : Grace and Glow MD Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002
+Get $50 towards your next visit when you sign up for our new app: https://bit.ly/476lVyz"
+SM9e17bbc72d8d0a781ca59667087879ca,+1(130)174-2659,+15515537432,failed,21211,Potential,potential_risk,3,calystaproemr.com,"Patient History/Good Faith Exam (New) encounter link has been sent to you from Grace and Glow MD. Please visit below link and fill out your information. 
+https://www.calystaproemr.com/patient-encounters/addCustomEncounter/256350/3657/2598/779173"
+SM9c29a551d10690a581ec835198fa3b17,+1(130)174-2659,+15515537432,failed,21211,Potential,potential_risk,3,calystaproemr.com,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://www.calystaproemr.com/patients-link?token=NzQ5MTRmNDA"
+SM015ca43922df5fb299e9a53860ca08b0,+1(130)174-2659,+15515537432,failed,21211,High,suspicious_link_or_shortener,6,spa.guru,"Hi, you have a new appointment with Dr. Melissa Lee Agawa on 02/27/2026 at 02:00 PM.
+Facility : Grace and Glow MD, Address : 812 N Bethlehem Pike Suite 203,Lower Gwynedd, Pennsylvania, 19002. Click on this link 
+https://spa.guru/jX8Pc_B to confirm your appointment, or call to reschedule :+1(215)618-4868"
+SMf68fc304f31781437b8d7f828962e371,+1(130)174-2659,+15515537432,failed,21211,Potential,potential_risk,3,calystaproemr.com,"HIPPA Privacy Consent, Social Media and Photo Release Consent, Office Policy consent form signing link has been sent to you from Grace and Glow MD. Please visit the given link and sign.
+https://www.calystaproemr.com/patients-link?token=YzUxNTYyOTg"
+SMed4472c1457ac334a52ba8bc28336445,+19154347619,+15515537432,undelivered,30006,High,suspicious_link_or_shortener,8,rpt.md,"Hello, hope you're having a glowing day!
+
+Hi Tiffany, 
+ 
+It was so nice meeting you at the Goddard Galentine’s event!  We loved having you try our complimentary laser hair removal session and hope you enjoyed the experience. 
+ 
+We just wanted to check in to see how everything felt and if you had any questions. If you’re interested in continuing treatments, you can view available sessions and pricing directly in our app here: https://rpt.md/4ocfBux 
+ 
+Of course, feel free to reach out anytime we’re always happy to help. 
+ 
+Have a great weekend! 
+Shannon Connors, LE/CLT
+
+In the case of an emergency, for faster response, type URGENT into the message."
